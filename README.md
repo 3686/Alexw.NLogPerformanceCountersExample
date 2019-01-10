@@ -2,7 +2,7 @@ Alexw.NLogPerformanceCounters.ExampleService
 ============================================
 
 Creates performance counters automatically via NLog PerfCounter targets.
-Tutorial here: https://alexw.co.uk/blog-posts/nlog/csharp/dotnet/windows/performance-counters/2017/05/12/performance-counters-with-nlog.html
+Tutorial here: [Performance Counters with NLog](https://alexw.co.uk/blog-posts/nlog/csharp/dotnet/windows/performance-counters/2017/05/12/performance-counters-with-nlog.html)
 
 Steps taken
 -----------
